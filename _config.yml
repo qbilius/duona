@@ -5,7 +5,7 @@ email: qbilius@gmail.com
 description: >
   Čia skelbiamos tikros mintys – tokios, kaip ir tikri žmonės,– ugdančios,
   artinančios prie esmės.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "duona" # the subpath of your site, e.g. /blog/
 url: "http://qbilius.github.com/duona" # the base hostname & protocol for your site
 twitter_username: qbilius
 github_username:  qbilius
