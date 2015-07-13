@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+    <span class="post-category">{% if page.categories %} {{ page.categories | join: ', ' }}{% endif %}</span>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <a href='#comments' class="show-comments" id='comment_toggler' onclick="toggle_visibility('comment_toggler', 'disqus_thread');">Rodyti komentarus</a>
+  <div id="disqus_thread" anchor="comments"></div>
+
+  <script type="text/javascript">
+    function toggle_visibility(sender, id) {
+       var s = document.getElementById(sender);
+       var e = document.getElementById(id);
+       if (e.style.display == 'block') {
+          e.style.display = 'none';
+          s.innerHTML = 'Rodyti komentarus';
+        }
+       else {
+          e.style.display = 'block';
+          s.innerHTML = 'Slėpti komentarus';
+        }
+    }
+  </script>
+
+  <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES * * */
+      var disqus_shortname = 'duonaklab';
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+</div>

@@ -1,0 +1,11 @@
+---
+title: Revoliucijos moksle užuomazgos
+date: 2010-01-25 20:44:19
+categories: citatos gReader mokslas
+---
+
+Mokslininkų nesugebėjimas aiškiai, glaustai rašyti mane jau kuris laikas varo iš proto. Ir kuo prastesnis straipsnis, tuo daugiau privemta. O kalta čia leidybos sistema, kuri leidžia rašyt, kiek tik nori ir ką tik nori. Plačiau imant, tai susiję su leidyklų technologiniu atsilikimu: kur matyta, kad XXI amžiuje moksliniai straipsniai vis dar būtų A4 formato lapai, o ne interaktyvūs blogai? Juk kai daug galvų kartu dirba ir dalinasi informacija, kokybė tik gerėja. O dabar turim tiek socialinių įrankių internete – ir vis tiek sėdim rūsiuose su A4 lapais. Tokiu būdu aš atsidūriau Michael Nielsen bloge, kuriame jis kelia daug rimtų idėjų dėl mokslo ateities, aprėpiančių tiek dabartinės sistemos trūkumus (ypač atvirumo trūkumą: academia virsta vos ne Bažnyčia, kur bet kokie pokyčiai yra laikomi neigiamais – naudotis RSS? cituoti blogus? Google Wave?), tiek mintis, kaip tai keisti, kaip įgyvendinti kultūrinę revoliuciją moksle. Tai visai nauja plotmė man ir daug minčių, o čia tik cituoju vieną patikusią pastraipą, kaip atpažinti revoliucijos užuomazgas:
+
+> *An early sign of impending disruption is when there’s a sudden flourishing of startup organizations serving an overlapping customer need (say, news), but whose organizational architecture is radically different to the conventional approach. That means many people outside the old industry (and thus not suffering from the blinders of an immune response) are willing to bet large sums of their own money on a new way of doing things. That’s exactly what we saw in the period 2000-2005, with organizations like [Slashdot](http://slashdot.org/), [Digg](http://digg.com/), [Fark](http://fark.com/), [Reddit](http://reddit.com/), [Talking Points Memo](http://www.talkingpointsmemo.com/), and many others. Most such startups die. That’s okay: it’s how the new industry learns what organizational architectures work, and what don’t. But if even a few of the startups do okay, then the old players are in trouble, because the startups have far more room for improvement.*
+>
+> iš *[Michael Nielsen: Is scientific publishing about to be disrupted?](http://michaelnielsen.org/blog/is-scientific-publishing-about-to-be-disrupted/)*

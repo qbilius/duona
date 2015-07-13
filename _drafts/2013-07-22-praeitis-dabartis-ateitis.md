@@ -1,0 +1,7 @@
+---
+title: Praeitis, dabartis, ateitis
+date: 2013-07-22 23:02:08
+categories: duona
+---
+
+Bet kaip čia yra, kad niekaip dabartyje nepabūsi. Sutinki draugą – prisiminimai, smagios būtos akimirkos, nostalgija. Prisidirbi – baimės, kas nutiks, spėlionės, prognozės. O mylimajame ką matai: ką matei *tada* ir atostogų planus po pusės metų. Paskui dar būna tas gyvenimas ateitimi, kur dirbi dirbi dirbi, tikėdamasis kažko ateityje, tada bac širdies smūgis. Sykiais vis dėlto bandome pagyventi. Prasideda didžiausias planavimas, įsivaizdavimas, kaip viskas bus. Po visko pasakojamės, kaip gerai buvo… bet veiksmo metu ne kažkas. Telefono tikrinimas ir plepalai. Tai palaimingas, tačiau ne buvimas dabartyje. Gal plaukimas: nuplaunantis, bet paliekantis tik šlapius plaukus. Aš nemanau, kad jis užpildo, jeigu nėra suvoktas, įvardintas, išdrebėtas kiekvienu kūno plaukeliu. Štai mūsų fakultete susibūrė budizmo grupelė, antradieniais popiet gaudanti dabarties akimirkas. Pasirodo, malonu dėti pėdą ant grindų, net drebu iš suvokimo, kad be tos pėdos man nieko daugiau ir nebereikia. Gyventi – tai pasivyti esamąjį laiką. <span style="font-size:13px;">Iš tikrųjų tik suėmęs pluoštą dabarties gijų gali nuvyti ateitį iš jų. Ateitis iš baimės, prisigalvojimų, atsiminimų ir tampa tokia, dar labiau atitrūkusi nuo realybės. Mintis ima striginėti tarp realybės ir pramano, kol galop visai atitrūksta nuo kūno. Nieko naujo iš to negims.</span>

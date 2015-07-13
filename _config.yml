@@ -1,0 +1,23 @@
+# Site settings
+title: Eilėje prie duonos
+author: Jonas Kubilius
+email: qbilius@gmail.com
+description: >
+  Čia skelbiamos tikros mintys – tokios, kaip ir tikri žmonės,– ugdančios,
+  artinančios prie esmės.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://qbilius.github.com/duona" # the base hostname & protocol for your site
+twitter_username: qbilius
+github_username:  qbilius
+timezone: Europe/Brussels
+permalink: /:title.html
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"

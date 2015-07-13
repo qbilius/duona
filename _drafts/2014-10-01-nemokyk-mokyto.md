@@ -1,0 +1,7 @@
+---
+title: Nemokyk mokyto
+date: 2014-10-01 17:01:51
+categories: klišės
+---
+
+Pirmuosius kartus išgirdus kritiką, būna nemalonu. Kai kuriuos pradedančiuosius tai atgraso nuo tolimesnių pabandymų ką nors daryti, tuo tarpu kiti ima mokytis atremti kritiką. Vienas iš geriausių ginklų yra toks: „Jei žinai, kaip geriau padaryti, tai vat ateik ir padaryk.“ Veikia fantastiškai. Kritikuotojas juk yra tinginys, kuris pats nieko nedaro, tik nori pasireikšti. Ši frazė tuoj patupdo tokį į vietą, o mes tuo tarpu kuo toliau, tuo labiau mėgaujamės savo nepaprastu šaunumu. Ilgainiui galima išmokti visiškai nekreipti dėmesio į jokią kritiką ir vaizduoti neklystančius. Trumpai tariant, dažnai kritika yra tuščia ir šitaip atrėžti teisinga, tačiau kai rimtas žmogus savo nuomonę pareiškia nuoširdžiai, toks atsakymas yra netinkamas. Kritikuojama ne iš noro pasirodyti, o norint pasakyti, kad kažkas vis dėlto ne taip. Bet kritikuotojas anaiptol neturi žinoti, kaip padaryti geriau. Tik tiek, kad ir nemanau, kad kas nors turi žinoti. Jei tu operos solistas, aš tau nepaaiškinsiu, kaip geriau padainuoti. Bet, kaip klausytojas, aš galiu pasakyti, kad atlikimas manęs nesujaudino. Nežinau, kodėl, bet nesijaudino. Tai solistas dabar man rėks „padainuok geriau arba patylėk“? Nieko bendro. Aš pasidalinu savo nuomone, gal privers pagalvoti ir pasitempti. Aišku, daug tokių rėksnių, kurie tik šiaip kritikuoja, bet sėdėti savo stiklo kalne manant, kad esi šaunus, yra lygiai taip pat kvaila.

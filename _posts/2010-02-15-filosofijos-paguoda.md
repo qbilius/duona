@@ -1,0 +1,22 @@
+---
+title: Filosofijos paguoda
+date: 2010-02-15 15:41:45
+categories: .mp citatos
+---
+
+Pamąstymai perskaičius [Alain de Botton *The Consolations of Philosophy*](http://www.alaindebotton.com/philosophy.asp) (*Filosofijos paguoda*), kurioje nagrinėjamos šešių filosofų mintys, susidūrus su kasdienėmis bėdomis:
+
+1.  **Sokratas apie nepopuliarumą.**Tai, kad mąstai ne taip, kaip visi, dar visai nereiškia, kad esi neteisus, kaip kad ir nereiškia, jog esi nepripažintas genijus. Bet savo požiūrį reikia mokėti apiginti, aštrus liežuvis pramuša ne vieną kietą kaktą. Aštraus liežuvio lavinimui aš siūlyčiau Sokrato metodą:
+    -   Imi teiginį
+    -   Atmetęs visas išankstines nuostatas ir pašnekovo autoritetą, ieškai išimties
+    -   Radęs taisai pradinį teiginį
+    -   Kartoji, kol išimčių daugiau nebepavyksta rasti
+    -   Galutinis teiginys turėtų būti arčiau tiesos nei pradinis
+
+2.  **Epikūras apie pinigų stygių.** Ne piniguose laimė, o draugystėje, laisvėje ir mąstyme.
+3.  **Seneka apie susinervinimą.** Pykstame dėl to, kad pasaulis elgiasi ne taip, kaip *privalo*. Pavyzdžiui, daug kas mano, kad jeigu elgsiuos tinkamai (būsiu doras pilietis, geras tėtis), tai nieko blogo man negali nutikti (į kalėjimą nesėsiu, mano vaikai bus sveiki). Tačiau tarp šitų teiginių ne visada yra priežastinis, ir ypač atvirkščias, ryšys. Pavyzdžiui, jeigu tavo vaikas žūna avarijoje, kokia prasmė teigti, kad buvai blogas tėtis? Analogiškai atsiranda tas noras būti teisiam ir pasipiktinimas, kai neteisingai tave apkaltina. Reikėtų pripažinti, kad dažnas atvejis yra tik [atsitiktinumas](http://jonaskubilius.mp/blog/tarp-atsitiktinumo-ir-likimo), neturįs nieko bendra su mūsų poelgiais. Tai stoiškas požiūris, kurio nereikėtų painioti su absoliučiu susitaikymu su viskuo. Senekos rekomenduojama nesinervinti per daug, kai nutinka kas nepakeičiamo, tačiau tas nereiškia, kad reikia rankas sudėjus sėdėti, kai problemą galima išspręsti. Tačiau kyla klausimas, kurio stoikai neatsako: kiek pastangų verta įdėti, bandant pakreipti likima?
+4.  **Montenis apie nekompetentingumą.** Montenis, pasirodo, buvo pirmasis „natūralistas“. Jis atsigręžė į žmogų ir klausė, kaip filosofija padeda tūlam žmogui, ir ar tik ne tūlas gyvena laimingiau nei filosofas? Jį ypač erzino filosofų sudievinimas, tarsi jie nebūtų tokie pat žmonės kaip ir mes. Iš čia ir teiginys, kad niekada nesivadovauk autoritetais. Domėkis, kad žmonės, protingesni už tave sako, bet turėk savo poziciją. Gindamas savo natūralistinę poziciją, Montenis rašė apie savo bezdėjimą ir sėdėjimą ant puodo, tai pat sugalvojo tokį užmušantį sakinį: *Kings and philosophers shit: and so do ladies.* Jis skatino pažvelgti plačiau ir neaiškinti, kad tas ar anas yra „natūralu“. (Dar vienas pavyzdys. Įsivaizduokite, kad prikakojate į drobinį audeklą ir paskui tai nešiojatės su savimi. Keista? O šnypti į nosinę – normalu?) Tačiau lieka neatsakytas klausimas, ką daryti su ta margalyne nuomonių, su kuria susiduriame, pripažinę kiekvieną individą kaip vertą dėmesio.
+5.  **Šopenhaueris apie sudaužytą širdį.** “Only the male intellect, clouded by the sexual impulse, could call the undersized, narrow-shouldered, broad-hipped, and short-legged sex the fair sex.” (p. 175)
+6.  **Nyčė apie sunkumus.** Nyčė sakė, kad reikia kentėti, ir iš kančios gims kažkas daugiau. Progresas: tai kaip kopimas į kalną – gali nekopti ir lik apačioje, bet jei pasirenki kopti, kurį laiką teks pasikankinti, kad pamatytum viršūnę, kuriai niekas ten apačioje jau neprilygs. Ir dėl to reikia nebijoti rizikuoti ir gyventi, imant iš pasaulio visa, ką gali. (Tai priešinga stereotipiniam filosofų norui slėptis su savo mintimis kur nors palėpėje.) Nyčę žavėjo Goethe, kuris buvo ne tik puikus rašytojas, bet ir aktyvus visuomenės narys, ir geras meilužis (Übermensch pavyzdys). Ir va tada tas pats Nyčė gyvenimą praleidžia kažkur kalnuose, žmonos taip ir nesusiranda, galop išprotėja. Man labai įdomu, kaip filosofai leidžia sau daug ką teigti, o patys to nesugeba pasiekti, bet mes vis tiek jais tikime it dievais.
+
+Apskritai ši knyga įdomiausia tuo, kad pamatai, kaip giliai daugelis filosofinių teiginių yra įaugę į mūsų suvokimą, jog mano vardijamos idėjos atrodo „natūralios” ar net „trivialios“. Tad ši knyga turbūt labiausiai tinkama dar mokykloje, kai panašūs klausimai apie gyvenimo prasmę, tiesą, meilę, kančią yra aktualūs. O aš įsitikinau, kad daugelis filosofinių teiginių, suformuluotų bent jau iki dvidešimtojo amžiaus pradžios, jau perėję į mūsų kolektyvinę pasąmonę.
