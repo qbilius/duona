@@ -10,7 +10,7 @@ url: "http://qbilius.github.com/duona" # the base hostname & protocol for your s
 twitter_username: qbilius
 github_username:  qbilius
 timezone: Europe/Brussels
-permalink: /duona/:title.html
+permalink: /:title.html
 
 # Build settings
 markdown: kramdown
