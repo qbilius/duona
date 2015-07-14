@@ -3,12 +3,13 @@
 ---
 
 @charset "utf-8";
-@import "http://fonts.googleapis.com/css?family=Open+Sans";
-@import "http://fonts.googleapis.com/css?family=Titillium+Web";
+@import "https://fonts.googleapis.com/css?family=Open+Sans";
+@import "https://fonts.googleapis.com/css?family=Titillium+Web";
 
 // Our variables
 $base-font-family: 'Open Sans', sans-serif;
 $base-font-size: 18px;
+$tagline-font-family: 'Titillium Web', sans-serif;
 $small-font-size: $base-font-size * 0.7; //875;
 $base-line-height: 1.6;
 $spacing-unit: 30px;

@@ -6,11 +6,11 @@ description: >
   Čia skelbiamos tikros mintys – tokios, kaip ir tikri žmonės,– ugdančios,
   artinančios prie esmės.
 baseurl: "/duona" # the subpath of your site, e.g. /blog/
-url: "http://qbilius.github.io" # the base hostname & protocol for your site
+url: "https://qbilius.github.io" # the base hostname & protocol for your site
 twitter_username: qbilius
 github_username:  qbilius
 timezone: Europe/Brussels
-permalink: /duona/:title.html
+permalink: /:title.html
 
 # Build settings
 markdown: kramdown

@@ -12,7 +12,7 @@
   .tagline {
     color: $brand-color;
     font-size: 24px;
-    font-family: 'Titillium Web';
+    font-family: $tagline-font-family;
     @include media-query($max-width) {
       width: $max-width;
       margin: 2vh auto;
@@ -30,7 +30,7 @@
   .tagline {
     color: $brand-color;
     font-size: 20px;
-    font-family: 'Titillium Web';
+    font-family: $tagline-font-family;
     @include media-query($max-width) {
       width: $max-width;
       margin: 2vh auto;
