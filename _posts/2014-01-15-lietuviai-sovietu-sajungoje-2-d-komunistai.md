@@ -2,6 +2,7 @@
 title: Lietuviai Sovietų Sąjungoje. 2 d. Komunistai
 date: 2014-01-15 23:24:19
 categories: duona
+excerpt: Po šiai dienai komunizmas kaip idealogija dažnam nesukelia tokios reakcijos kaip fašizmas...
 ---
 
 Ankstyvieji (ideologiniai) komunistai

@@ -2,6 +2,7 @@
 title: Šimtatūkstantinę biblioteką palydint
 date: 2014-07-27 15:49:10
 categories: mėsa
+excerpt: Nuo mažumės knygas skaitę mėgsta sakytis užaugę tarp knygų. Tačiau nemanau, kad jie turi omeny šitai...
 ---
 
 *(Devyniasdešimt trečiųjų [senelio](http://rektorius.lt) gimimo metinių proga.)*

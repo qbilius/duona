@@ -2,6 +2,7 @@
 title: Rašyk kaip žurnalistas!
 date: 2014-07-11 11:20:37
 categories: dešra
+excerpt: Tai buvo nedidelė balta katytė. Jos kūnelis išdavikas apnuogino sustirusius plaukus. Ji buvo dar visai jaunutė, bet sudžiūvimas jau badė akis.
 ---
 
 *Jonas Kubiliūnas*

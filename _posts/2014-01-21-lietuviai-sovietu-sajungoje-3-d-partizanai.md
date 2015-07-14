@@ -2,6 +2,7 @@
 title: Lietuviai Sovietų Sąjungoje. 3 d. Partizanai
 date: 2014-01-21 17:37:27
 categories: duona
+excerpt: Partizanus skirstyčiau šitaip...
 ---
 
 Partizanus skirstyčiau šitaip:

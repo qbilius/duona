@@ -4,7 +4,7 @@ date: 2013-03-07 19:22:59
 categories: išaugta menas
 ---
 
-Klausimas **„Kas yra menas?“**<span style="font-size:13px;"> nėra dichotominis, kaip kad labai norėtųsi protestuotojams prieš šūdų mėtymą ant yvos veido. Greičiau reikia kalbėti apie **kūrinio vertę**, kuri gali būti matuojama objektyviais rodikliais,</span> žiūrovo juntama (subjektyvia) verte ar socialine meno verte.
+Klausimas **„Kas yra menas?“** nėra dichotominis, kaip kad labai norėtųsi protestuotojams prieš šūdų mėtymą ant yvos veido. Greičiau reikia kalbėti apie **kūrinio vertę**, kuri gali būti matuojama objektyviais rodikliais, žiūrovo juntama (subjektyvia) verte ar socialine meno verte.
 
 **Objektyvūs meno vertinimo kriterijai (vertės mažėjimo tvarka):**
 
