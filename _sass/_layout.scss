@@ -2,9 +2,12 @@
  * Site header
  */
 .site-header-index {
-  // width: 100%;
+  width: 100%;
   top: 0;
   padding: 0 5px;
+  @include media-query($max-width) {
+    padding: 0;
+  }
   @include media-query($wide-screen) {
     height: 100%;
     position: fixed;
@@ -26,9 +29,12 @@
   }
 }
 .site-header {
-  // width: 100%;
+  width: 100%;
   top: 0;
   padding: 0 5px;
+  // @include media-query($wide-screen) {
+  //   padding: 0;
+  // }
   .tagline {
     color: $brand-color;
     font-size: 20px;
@@ -86,7 +92,7 @@
     .post-category {
       font-size: $small-font-size;
     }
-    .post-content {
+    > .post-content {
       @include media-query($wide-screen) {
         width: 0.7*$wide-screen;
       }
