@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: mokslas
 excerpt: Man patinka įsivaizduoti...
 ---
