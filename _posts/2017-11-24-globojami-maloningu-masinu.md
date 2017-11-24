@@ -4,8 +4,6 @@ categories: mokslas
 excerpt: Man patinka įsivaizduoti...
 title: Globojami maloningų mašinų
 ---
-*Richard Brautigan*
-
 Man patinka įsivaizduoti (ir
 kuo greičiau, tuo geriau!)
 kibernetinę pievą,
@@ -34,6 +32,6 @@ brolius ir seseris žinduolius,
 ir globojami
 maloningų mašinų.
 
-1967
+Richard Brautigan, 1967
 
 *(Iš rinkinio [All Watched Over by Machines of Loving Grace](http://www.brautigan.net/machines.html))*
